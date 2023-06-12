@@ -235,7 +235,7 @@ body{
 .logo {
 	position: absolute;
 	top: 60px;
-	left: 50px;
+	left: 45%;
 	display: block;
 	z-index: 11;
 	transition: all 250ms linear;
@@ -249,7 +249,7 @@ body{
 
 .localreviews {
   padding-top: 200px;
-  padding-left: 100px;
+  padding-left: 15%;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: black;
 }
@@ -266,15 +266,10 @@ body{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-style: italic;
   color: black;
-  position: absolute;
-  bottom: 57%;
-  margin-left: 144px;
 }
 
-.dname {
+.rname {
   position: absolute;
-  bottom: 61%;
-  padding-left: 145px;
   font-size: 25px;
   color: black;
 }
@@ -282,9 +277,9 @@ body{
 .threeStars {
   position: absolute;
   left: 150px;
-  bottom: 500px;
-  width: 145px;
-  height: 25px;
+  bottom: 140px;
+  width: 165px;
+  height: 30px;
 }
 
 .johnsonD {
@@ -296,4 +291,23 @@ body{
   border-radius: 50%;
   margin-top: 200px;
 
+}
+
+.fiveStars {
+
+position: absolute;
+width: 170px;
+
+
+}
+
+.harryS {
+
+  position: absolute;
+  width: 110px;
+  height: 110px;
+  margin-left: 20px;
+  border-radius: 50%;
+  margin-top: 350px;
+  
 }
